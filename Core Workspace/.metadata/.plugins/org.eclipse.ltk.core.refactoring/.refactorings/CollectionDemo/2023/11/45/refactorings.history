@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.collectionpractice.Comparatr&apos; to &apos;Ccomparatr&apos;&#x0D;&#x0A;- Original project: &apos;CollectionDemo&apos;&#x0D;&#x0A;- Original element: &apos;com.collectionpractice.Comparatr&apos;&#x0D;&#x0A;- Renamed element: &apos;com.collectionpractice.Ccomparatr&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Comparatr&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.collectionpractice{Comparatr.java[Comparatr" matchStrategy="1" name="Ccomparatr" qualified="false" references="true" similarDeclarations="false" stamp="1699205367927" textual="false" version="1.0"/>
+</session>
